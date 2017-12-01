@@ -1,7 +1,23 @@
-# CommunityServiceUNAM
+This is my undergrad community service project in Julia, HPC and physics.
 
-[![Build Status](https://travis-ci.org/miguelraz/CommunityServiceUNAM.jl.svg?branch=master)](https://travis-ci.org/miguelraz/CommunityServiceUNAM.jl)
+1. Feigenbaum constants.
+2. Hired gun
+3Â. Demon Fortran translation
 
-[![Coverage Status](https://coveralls.io/repos/miguelraz/CommunityServiceUNAM.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/miguelraz/CommunityServiceUNAM.jl?branch=master)
+Things I better figure out, in parallel:
 
-[![codecov.io](http://codecov.io/github/miguelraz/CommunityServiceUNAM.jl/coverage.svg?branch=master)](http://codecov.io/github/miguelraz/CommunityServiceUNAM.jl?branch=master)
+- Introduction to HPC
+- C++ Practices and Principles
+- LLVM Intro
+
+- CS 161
+- Structured Parallel Programming
+- Matrices Van Golub
+- Numerical Linear Algebra by Trefethen
+
+- CUDA programming, GPU tech conference, tech books
+- MPI I, II
+- OpenMP I, II
+
+
+
